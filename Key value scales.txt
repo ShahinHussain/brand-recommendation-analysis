@@ -1,0 +1,36 @@
+Task values:
+1a + 1b:
+q16o_03: Q.16 Offers good value for money: Bobbi Brown
+q16r_*: e.g. Q.16 Embraces diversity: Charlotte Tilbury
+	1.0: Strongly agree
+	2.0: Slightly agree
+	3.0: Neither agree nor disagree
+	4.0: Slightly disagree
+	5.0: Strongly disagree
+	6.0: Don't know
+
+2.
+q16*01 (independent vars):
+	1.0: Strongly agree
+	2.0: Slightly agree
+	3.0: Neither agree nor disagree
+	4.0: Slightly disagree
+	5.0: Strongly disagree
+	6.0: Don't know
+	
+q15_01: Q.15 How likely are you to recommend the following brands to a friend or family members? Charlotte Tilbury
+	0.0: 0 - Not at all likely to recommend
+	1.0: 1
+	2.0: 2
+	3.0: 3
+	4.0: 4
+	5.0: 5
+	6.0: 6
+	7.0: 7
+	8.0: 8
+	9.0: 9
+	10.0: 10 - Extremely likely to recommend
+	
+Key drivers:
++ve: q16r_01: Q.16 Embraces diversity: Charlotte Tilbury
+-ve: q16p_01: Q.16 Is a brand I feel proud to support: Charlotte Tilbury
