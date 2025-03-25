@@ -14,7 +14,7 @@ q09_01: Q.9 Which of the following make-up, skincare, and/or fragrance brands ha
 q09_02: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - Benefit Cosmetics
 q09_03: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - Bobbi Brown
 q09_04: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - La Mer
-q09_05: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - EstÚe Lauder
+q09_05: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - EstÃše Lauder
 q09_06: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - Yves Saint Laurent Beauty
 q09_07: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - MAC
 q09_08: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - Dior Beauty
@@ -25,7 +25,7 @@ q09_12: Q.9 Which of the following make-up, skincare, and/or fragrance brands ha
 q09_13: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - Chanel Beauty
 q09_14: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - NYX
 q09_15: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - Huda Beauty
-q09_16: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - Lanc¶me
+q09_16: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - LancÂ¶me
 q09_17: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - Tarte
 q09_18: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - Too Faced
 q09_19: Q.9 Which of the following make-up, skincare, and/or fragrance brands have you heard of? Prompted Awareness - Pat McGrath
@@ -48,7 +48,7 @@ q10_01: Q.10 How much, if anything, would you say you know about each of the fol
 q10_02: Q.10 How much, if anything, would you say you know about each of the following brands? Benefit Cosmetics
 q10_03: Q.10 How much, if anything, would you say you know about each of the following brands? Bobbi Brown
 q10_04: Q.10 How much, if anything, would you say you know about each of the following brands? La Mer
-q10_05: Q.10 How much, if anything, would you say you know about each of the following brands? EstÚe Lauder
+q10_05: Q.10 How much, if anything, would you say you know about each of the following brands? EstÃše Lauder
 q10_06: Q.10 How much, if anything, would you say you know about each of the following brands? Yves Saint Laurent Beauty
 q10_07: Q.10 How much, if anything, would you say you know about each of the following brands? MAC
 q10_08: Q.10 How much, if anything, would you say you know about each of the following brands? Dior Beauty
@@ -71,7 +71,7 @@ q11_01: Q.11 Have you purchased or browsed make-up, skincare and/or fragrance pr
 q11_02: Q.11 Have you purchased or browsed make-up, skincare and/or fragrance products from the following brands? Benefit Cosmetics
 q11_03: Q.11 Have you purchased or browsed make-up, skincare and/or fragrance products from the following brands? Bobbi Brown
 q11_04: Q.11 Have you purchased or browsed make-up, skincare and/or fragrance products from the following brands? La Mer
-q11_05: Q.11 Have you purchased or browsed make-up, skincare and/or fragrance products from the following brands? EstÚe Lauder
+q11_05: Q.11 Have you purchased or browsed make-up, skincare and/or fragrance products from the following brands? EstÃše Lauder
 q11_06: Q.11 Have you purchased or browsed make-up, skincare and/or fragrance products from the following brands? Yves Saint Laurent Beauty
 q11_07: Q.11 Have you purchased or browsed make-up, skincare and/or fragrance products from the following brands? MAC
 q11_08: Q.11 Have you purchased or browsed make-up, skincare and/or fragrance products from the following brands? Dior Beauty
@@ -94,7 +94,7 @@ q12_01: Q.12 How often do you purchase make-up, skincare and/or fragrance produc
 q12_02: Q.12 How often do you purchase make-up, skincare and/or fragrance products from the following brands? Benefit Cosmetics
 q12_03: Q.12 How often do you purchase make-up, skincare and/or fragrance products from the following brands? Bobbi Brown
 q12_04: Q.12 How often do you purchase make-up, skincare and/or fragrance products from the following brands? La Mer
-q12_05: Q.12 How often do you purchase make-up, skincare and/or fragrance products from the following brands? EstÚe Lauder
+q12_05: Q.12 How often do you purchase make-up, skincare and/or fragrance products from the following brands? EstÃše Lauder
 q12_06: Q.12 How often do you purchase make-up, skincare and/or fragrance products from the following brands? Yves Saint Laurent Beauty
 q12_07: Q.12 How often do you purchase make-up, skincare and/or fragrance products from the following brands? MAC
 q12_08: Q.12 How often do you purchase make-up, skincare and/or fragrance products from the following brands? Dior Beauty
@@ -117,7 +117,7 @@ q12b_01: Q.12b Do you think the following brands are growing or declining in pop
 q12b_02: Q.12b Do you think the following brands are growing or declining in popularity? Benefit Cosmetics
 q12b_03: Q.12b Do you think the following brands are growing or declining in popularity? Bobbi Brown
 q12b_04: Q.12b Do you think the following brands are growing or declining in popularity? La Mer
-q12b_05: Q.12b Do you think the following brands are growing or declining in popularity? Est+®e Lauder
+q12b_05: Q.12b Do you think the following brands are growing or declining in popularity? Est+Â®e Lauder
 q12b_06: Q.12b Do you think the following brands are growing or declining in popularity? Yves Saint Laurent Beauty
 q12b_07: Q.12b Do you think the following brands are growing or declining in popularity? MAC
 q12b_08: Q.12b Do you think the following brands are growing or declining in popularity? Dior Beauty
@@ -140,7 +140,7 @@ q13_01: Q.13 Which of the following brands would you consider purchasing beauty 
 q13_02: Q.13 Which of the following brands would you consider purchasing beauty or skincare products from in the future? Benefit Cosmetics
 q13_03: Q.13 Which of the following brands would you consider purchasing beauty or skincare products from in the future? Bobbi Brown
 q13_04: Q.13 Which of the following brands would you consider purchasing beauty or skincare products from in the future? La Mer
-q13_05: Q.13 Which of the following brands would you consider purchasing beauty or skincare products from in the future? EstÚe Lauder
+q13_05: Q.13 Which of the following brands would you consider purchasing beauty or skincare products from in the future? EstÃše Lauder
 q13_06: Q.13 Which of the following brands would you consider purchasing beauty or skincare products from in the future? Yves Saint Laurent Beauty
 q13_07: Q.13 Which of the following brands would you consider purchasing beauty or skincare products from in the future? MAC
 q13_08: Q.13 Which of the following brands would you consider purchasing beauty or skincare products from in the future? Dior Beauty
@@ -163,7 +163,7 @@ q15_01: Q.15 How likely are you to recommend the following brands to a friend or
 q15_02: Q.15 How likely are you to recommend the following brands to a friend or family members? Benefit Cosmetics
 q15_03: Q.15 How likely are you to recommend the following brands to a friend or family members? Bobbi Brown
 q15_04: Q.15 How likely are you to recommend the following brands to a friend or family members? La Mer
-q15_05: Q.15 How likely are you to recommend the following brands to a friend or family members? EstÚe Lauder
+q15_05: Q.15 How likely are you to recommend the following brands to a friend or family members? EstÃše Lauder
 q15_06: Q.15 How likely are you to recommend the following brands to a friend or family members? Yves Saint Laurent Beauty
 q15_07: Q.15 How likely are you to recommend the following brands to a friend or family members? MAC
 q15_08: Q.15 How likely are you to recommend the following brands to a friend or family members? Dior Beauty
@@ -186,7 +186,7 @@ q16a_01: Q.16 Easy to use: Charlotte Tilbury
 q16a_02: Q.16 Easy to use: Benefit Cosmetics
 q16a_03: Q.16 Easy to use: Bobbi Brown
 q16a_04: Q.16 Easy to use: La Mer
-q16a_05: Q.16 Easy to use: EstÚe Lauder
+q16a_05: Q.16 Easy to use: EstÃše Lauder
 q16a_06: Q.16 Easy to use: Yves Saint Laurent Beauty
 q16a_07: Q.16 Easy to use: MAC
 q16a_08: Q.16 Easy to use: Dior Beauty
@@ -209,7 +209,7 @@ q16b_01: Q.16 Easy to select the product I need: Charlotte Tilbury
 q16b_02: Q.16 Easy to select the product I need: Benefit Cosmetics
 q16b_03: Q.16 Easy to select the product I need: Bobbi Brown
 q16b_04: Q.16 Easy to select the product I need: La Mer
-q16b_05: Q.16 Easy to select the product I need: EstÚe Lauder
+q16b_05: Q.16 Easy to select the product I need: EstÃše Lauder
 q16b_06: Q.16 Easy to select the product I need: Yves Saint Laurent Beauty
 q16b_07: Q.16 Easy to select the product I need: MAC
 q16b_08: Q.16 Easy to select the product I need: Dior Beauty
@@ -232,7 +232,7 @@ q16c_01: Q.16 Easy to select the right gift: Charlotte Tilbury
 q16c_02: Q.16 Easy to select the right gift: Benefit Cosmetics
 q16c_03: Q.16 Easy to select the right gift: Bobbi Brown
 q16c_04: Q.16 Easy to select the right gift: La Mer
-q16c_05: Q.16 Easy to select the right gift: EstÚe Lauder
+q16c_05: Q.16 Easy to select the right gift: EstÃše Lauder
 q16c_06: Q.16 Easy to select the right gift: Yves Saint Laurent Beauty
 q16c_07: Q.16 Easy to select the right gift: MAC
 q16c_08: Q.16 Easy to select the right gift: Dior Beauty
@@ -255,7 +255,7 @@ q16d_01: Q.16 Created by the World's ^1 Make-Up Artist: Charlotte Tilbury
 q16d_02: Q.16 Created by the World's ^1 Make-Up Artist: Benefit Cosmetics
 q16d_03: Q.16 Created by the World's ^1 Make-Up Artist: Bobbi Brown
 q16d_04: Q.16 Created by the World's ^1 Make-Up Artist: La Mer
-q16d_05: Q.16 Created by the World's ^1 Make-Up Artist: EstÚe Lauder
+q16d_05: Q.16 Created by the World's ^1 Make-Up Artist: EstÃše Lauder
 q16d_06: Q.16 Created by the World's ^1 Make-Up Artist: Yves Saint Laurent Beauty
 q16d_07: Q.16 Created by the World's ^1 Make-Up Artist: MAC
 q16d_08: Q.16 Created by the World's ^1 Make-Up Artist: Dior Beauty
@@ -278,7 +278,7 @@ q16e_01: Q.16 Used by Celebrities: Charlotte Tilbury
 q16e_02: Q.16 Used by Celebrities: Benefit Cosmetics
 q16e_03: Q.16 Used by Celebrities: Bobbi Brown
 q16e_04: Q.16 Used by Celebrities: La Mer
-q16e_05: Q.16 Used by Celebrities: EstÚe Lauder
+q16e_05: Q.16 Used by Celebrities: EstÃše Lauder
 q16e_06: Q.16 Used by Celebrities: Yves Saint Laurent Beauty
 q16e_07: Q.16 Used by Celebrities: MAC
 q16e_08: Q.16 Used by Celebrities: Dior Beauty
@@ -301,7 +301,7 @@ q16f_01: Q.16 Teaches me about red carpet beauty: Charlotte Tilbury
 q16f_02: Q.16 Teaches me about red carpet beauty: Benefit Cosmetics
 q16f_03: Q.16 Teaches me about red carpet beauty: Bobbi Brown
 q16f_04: Q.16 Teaches me about red carpet beauty: La Mer
-q16f_05: Q.16 Teaches me about red carpet beauty: EstÚe Lauder
+q16f_05: Q.16 Teaches me about red carpet beauty: EstÃše Lauder
 q16f_06: Q.16 Teaches me about red carpet beauty: Yves Saint Laurent Beauty
 q16f_07: Q.16 Teaches me about red carpet beauty: MAC
 q16f_08: Q.16 Teaches me about red carpet beauty: Dior Beauty
@@ -324,7 +324,7 @@ q16g_01: Q.16 Offers personalised make-up and beauty advice: Charlotte Tilbury
 q16g_02: Q.16 Offers personalised make-up and beauty advice: Benefit Cosmetics
 q16g_03: Q.16 Offers personalised make-up and beauty advice: Bobbi Brown
 q16g_04: Q.16 Offers personalised make-up and beauty advice: La Mer
-q16g_05: Q.16 Offers personalised make-up and beauty advice: EstÚe Lauder
+q16g_05: Q.16 Offers personalised make-up and beauty advice: EstÃše Lauder
 q16g_06: Q.16 Offers personalised make-up and beauty advice: Yves Saint Laurent Beauty
 q16g_07: Q.16 Offers personalised make-up and beauty advice: MAC
 q16g_08: Q.16 Offers personalised make-up and beauty advice: Dior Beauty
@@ -347,7 +347,7 @@ q16h_01: Q.16 Luxury: Charlotte Tilbury
 q16h_02: Q.16 Luxury: Benefit Cosmetics
 q16h_03: Q.16 Luxury: Bobbi Brown
 q16h_04: Q.16 Luxury: La Mer
-q16h_05: Q.16 Luxury: EstÚe Lauder
+q16h_05: Q.16 Luxury: EstÃše Lauder
 q16h_06: Q.16 Luxury: Yves Saint Laurent Beauty
 q16h_07: Q.16 Luxury: MAC
 q16h_08: Q.16 Luxury: Dior Beauty
@@ -370,7 +370,7 @@ q16i_01: Q.16 Iconic: Charlotte Tilbury
 q16i_02: Q.16 Iconic: Benefit Cosmetics
 q16i_03: Q.16 Iconic: Bobbi Brown
 q16i_04: Q.16 Iconic: La Mer
-q16i_05: Q.16 Iconic: EstÚe Lauder
+q16i_05: Q.16 Iconic: EstÃše Lauder
 q16i_06: Q.16 Iconic: Yves Saint Laurent Beauty
 q16i_07: Q.16 Iconic: MAC
 q16i_08: Q.16 Iconic: Dior Beauty
@@ -393,7 +393,7 @@ q16j_01: Q.16 Empowers women to be the best version of themselves: Charlotte Til
 q16j_02: Q.16 Empowers women to be the best version of themselves: Benefit Cosmetics
 q16j_03: Q.16 Empowers women to be the best version of themselves: Bobbi Brown
 q16j_04: Q.16 Empowers women to be the best version of themselves: La Mer
-q16j_05: Q.16 Empowers women to be the best version of themselves: EstÚe Lauder
+q16j_05: Q.16 Empowers women to be the best version of themselves: EstÃše Lauder
 q16j_06: Q.16 Empowers women to be the best version of themselves: Yves Saint Laurent Beauty
 q16j_07: Q.16 Empowers women to be the best version of themselves: MAC
 q16j_08: Q.16 Empowers women to be the best version of themselves: Dior Beauty
@@ -416,7 +416,7 @@ q16k_01: Q.16 Offers the best quality products: Charlotte Tilbury
 q16k_02: Q.16 Offers the best quality products: Benefit Cosmetics
 q16k_03: Q.16 Offers the best quality products: Bobbi Brown
 q16k_04: Q.16 Offers the best quality products: La Mer
-q16k_05: Q.16 Offers the best quality products: EstÚe Lauder
+q16k_05: Q.16 Offers the best quality products: EstÃše Lauder
 q16k_06: Q.16 Offers the best quality products: Yves Saint Laurent Beauty
 q16k_07: Q.16 Offers the best quality products: MAC
 q16k_08: Q.16 Offers the best quality products: Dior Beauty
@@ -439,7 +439,7 @@ q16l_01: Q.16 Backstage catwalk beauty: Charlotte Tilbury
 q16l_02: Q.16 Backstage catwalk beauty: Benefit Cosmetics
 q16l_03: Q.16 Backstage catwalk beauty: Bobbi Brown
 q16l_04: Q.16 Backstage catwalk beauty: La Mer
-q16l_05: Q.16 Backstage catwalk beauty: EstÚe Lauder
+q16l_05: Q.16 Backstage catwalk beauty: EstÃše Lauder
 q16l_06: Q.16 Backstage catwalk beauty: Yves Saint Laurent Beauty
 q16l_07: Q.16 Backstage catwalk beauty: MAC
 q16l_08: Q.16 Backstage catwalk beauty: Dior Beauty
@@ -462,7 +462,7 @@ q16m_01: Q.16 Inclusive of all skin tones: Charlotte Tilbury
 q16m_02: Q.16 Inclusive of all skin tones: Benefit Cosmetics
 q16m_03: Q.16 Inclusive of all skin tones: Bobbi Brown
 q16m_04: Q.16 Inclusive of all skin tones: La Mer
-q16m_05: Q.16 Inclusive of all skin tones: EstÚe Lauder
+q16m_05: Q.16 Inclusive of all skin tones: EstÃše Lauder
 q16m_06: Q.16 Inclusive of all skin tones: Yves Saint Laurent Beauty
 q16m_07: Q.16 Inclusive of all skin tones: MAC
 q16m_08: Q.16 Inclusive of all skin tones: Dior Beauty
@@ -485,7 +485,7 @@ q16n_01: Q.16 Celebrate people of all ages: Charlotte Tilbury
 q16n_02: Q.16 Celebrate people of all ages: Benefit Cosmetics
 q16n_03: Q.16 Celebrate people of all ages: Bobbi Brown
 q16n_04: Q.16 Celebrate people of all ages: La Mer
-q16n_05: Q.16 Celebrate people of all ages: EstÚe Lauder
+q16n_05: Q.16 Celebrate people of all ages: EstÃše Lauder
 q16n_06: Q.16 Celebrate people of all ages: Yves Saint Laurent Beauty
 q16n_07: Q.16 Celebrate people of all ages: MAC
 q16n_08: Q.16 Celebrate people of all ages: Dior Beauty
@@ -508,7 +508,7 @@ q16o_01: Q.16 Offers good value for money: Charlotte Tilbury
 q16o_02: Q.16 Offers good value for money: Benefit Cosmetics
 q16o_03: Q.16 Offers good value for money: Bobbi Brown
 q16o_04: Q.16 Offers good value for money: La Mer
-q16o_05: Q.16 Offers good value for money: EstÚe Lauder
+q16o_05: Q.16 Offers good value for money: EstÃše Lauder
 q16o_06: Q.16 Offers good value for money: Yves Saint Laurent Beauty
 q16o_07: Q.16 Offers good value for money: MAC
 q16o_08: Q.16 Offers good value for money: Dior Beauty
@@ -531,7 +531,7 @@ q16p_01: Q.16 Is a brand I feel proud to support: Charlotte Tilbury
 q16p_02: Q.16 Is a brand I feel proud to support: Benefit Cosmetics
 q16p_03: Q.16 Is a brand I feel proud to support: Bobbi Brown
 q16p_04: Q.16 Is a brand I feel proud to support: La Mer
-q16p_05: Q.16 Is a brand I feel proud to support: EstÚe Lauder
+q16p_05: Q.16 Is a brand I feel proud to support: EstÃše Lauder
 q16p_06: Q.16 Is a brand I feel proud to support: Yves Saint Laurent Beauty
 q16p_07: Q.16 Is a brand I feel proud to support: MAC
 q16p_08: Q.16 Is a brand I feel proud to support: Dior Beauty
@@ -554,7 +554,7 @@ q16q_01: Q.16 Uses scientifically proven products/ingredients: Charlotte Tilbury
 q16q_02: Q.16 Uses scientifically proven products/ingredients: Benefit Cosmetics
 q16q_03: Q.16 Uses scientifically proven products/ingredients: Bobbi Brown
 q16q_04: Q.16 Uses scientifically proven products/ingredients: La Mer
-q16q_05: Q.16 Uses scientifically proven products/ingredients: EstÚe Lauder
+q16q_05: Q.16 Uses scientifically proven products/ingredients: EstÃše Lauder
 q16q_06: Q.16 Uses scientifically proven products/ingredients: Yves Saint Laurent Beauty
 q16q_07: Q.16 Uses scientifically proven products/ingredients: MAC
 q16q_08: Q.16 Uses scientifically proven products/ingredients: Dior Beauty
@@ -577,7 +577,7 @@ q16r_01: Q.16 Embraces diversity: Charlotte Tilbury
 q16r_02: Q.16 Embraces diversity: Benefit Cosmetics
 q16r_03: Q.16 Embraces diversity: Bobbi Brown
 q16r_04: Q.16 Embraces diversity: La Mer
-q16r_05: Q.16 Embraces diversity: EstÚe Lauder
+q16r_05: Q.16 Embraces diversity: EstÃše Lauder
 q16r_06: Q.16 Embraces diversity: Yves Saint Laurent Beauty
 q16r_07: Q.16 Embraces diversity: MAC
 q16r_08: Q.16 Embraces diversity: Dior Beauty
@@ -600,7 +600,7 @@ q16s_01: Q.16 Is a brand I associate with skincare: Charlotte Tilbury
 q16s_02: Q.16 Is a brand I associate with skincare: Benefit Cosmetics
 q16s_03: Q.16 Is a brand I associate with skincare: Bobbi Brown
 q16s_04: Q.16 Is a brand I associate with skincare: La Mer
-q16s_05: Q.16 Is a brand I associate with skincare: EstÚe Lauder
+q16s_05: Q.16 Is a brand I associate with skincare: EstÃše Lauder
 q16s_06: Q.16 Is a brand I associate with skincare: Yves Saint Laurent Beauty
 q16s_07: Q.16 Is a brand I associate with skincare: MAC
 q16s_08: Q.16 Is a brand I associate with skincare: Dior Beauty
@@ -623,7 +623,7 @@ q16t_01: Q.16 Champions sustainability: Charlotte Tilbury
 q16t_02: Q.16 Champions sustainability: Benefit Cosmetics
 q16t_03: Q.16 Champions sustainability: Bobbi Brown
 q16t_04: Q.16 Champions sustainability: La Mer
-q16t_05: Q.16 Champions sustainability: EstÚe Lauder
+q16t_05: Q.16 Champions sustainability: EstÃše Lauder
 q16t_06: Q.16 Champions sustainability: Yves Saint Laurent Beauty
 q16t_07: Q.16 Champions sustainability: MAC
 q16t_08: Q.16 Champions sustainability: Dior Beauty
@@ -718,25 +718,25 @@ q17_04_16: Q.17 Have you heard about <brand> recently, if so please specify wher
 q17_04_17: Q.17 Have you heard about <brand> recently, if so please specify where? La Mer - Make-up/skincare/fragrance brand's own website
 q17_04_18: Q.17 Have you heard about <brand> recently, if so please specify where? La Mer - Other
 q17_04_19: Q.17 Have you heard about <brand> recently, if so please specify where? La Mer - Haven't heard about <brand>
-q17_05_01: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Traditional TV e.g. Cable
-q17_05_02: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Podcasts
-q17_05_03: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Newspaper / magazine
-q17_05_04: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Beauty Influencers on social channels, blogs & make-up tutorials
-q17_05_05: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Online articles / on a website
-q17_05_06: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Email
-q17_05_07: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - YouTube
-q17_05_08: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Instagram
-q17_05_09: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Facebook
-q17_05_10: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - In a store
-q17_05_11: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Word of mouth
-q17_05_12: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Out of home advertising (billboards, wall postings, taxis, subways etc.)
-q17_05_13: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Streaming audio e.g. Spotify, Pandora
-q17_05_14: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Connected TV (e.g. Netflix, Hulu)
-q17_05_15: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - TikTok
-q17_05_16: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Twitter
-q17_05_17: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Make-up/skincare/fragrance brand's own website
-q17_05_18: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Other
-q17_05_19: Q.17 Have you heard about <brand> recently, if so please specify where? EstÚe Lauder - Haven't heard about <brand>
+q17_05_01: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Traditional TV e.g. Cable
+q17_05_02: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Podcasts
+q17_05_03: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Newspaper / magazine
+q17_05_04: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Beauty Influencers on social channels, blogs & make-up tutorials
+q17_05_05: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Online articles / on a website
+q17_05_06: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Email
+q17_05_07: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - YouTube
+q17_05_08: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Instagram
+q17_05_09: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Facebook
+q17_05_10: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - In a store
+q17_05_11: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Word of mouth
+q17_05_12: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Out of home advertising (billboards, wall postings, taxis, subways etc.)
+q17_05_13: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Streaming audio e.g. Spotify, Pandora
+q17_05_14: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Connected TV (e.g. Netflix, Hulu)
+q17_05_15: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - TikTok
+q17_05_16: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Twitter
+q17_05_17: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Make-up/skincare/fragrance brand's own website
+q17_05_18: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Other
+q17_05_19: Q.17 Have you heard about <brand> recently, if so please specify where? EstÃše Lauder - Haven't heard about <brand>
 q17_06_01: Q.17 Have you heard about <brand> recently, if so please specify where? Yves Saint Laurent Beauty - Traditional TV e.g. Cable
 q17_06_02: Q.17 Have you heard about <brand> recently, if so please specify where? Yves Saint Laurent Beauty - Podcasts
 q17_06_03: Q.17 Have you heard about <brand> recently, if so please specify where? Yves Saint Laurent Beauty - Newspaper / magazine
@@ -1085,7 +1085,7 @@ q17b_3: Q.17b Which, if any,  of these sources are most important to you in find
 q17b_4: Q.17b Which, if any,  of these sources are most important to you in finding information about make-up, skincare, and/or fragrance brands and products? 4 - fourth most important
 q17b_5: Q.17b Which, if any,  of these sources are most important to you in finding information about make-up, skincare, and/or fragrance brands and products? 5 - fifth most important
 ukq1601: UKQ.16 Which of the following face make-up brands for your complexion have you heard of? - Charlotte Tilbury
-ukq1602: UKQ.16 Which of the following face make-up brands for your complexion have you heard of? - EstÚe Lauder
+ukq1602: UKQ.16 Which of the following face make-up brands for your complexion have you heard of? - EstÃše Lauder
 ukq1603: UKQ.16 Which of the following face make-up brands for your complexion have you heard of? - Yves Saint Laurent Beauty
 ukq1604: UKQ.16 Which of the following face make-up brands for your complexion have you heard of? - MAC
 ukq1605: UKQ.16 Which of the following face make-up brands for your complexion have you heard of? - Dior Beauty
@@ -1098,7 +1098,7 @@ ukq1611: UKQ.16 Which of the following face make-up brands for your complexion h
 ukq1612: UKQ.16 Which of the following face make-up brands for your complexion have you heard of? - Giorgio Armani
 ukq1613: UKQ.16 Which of the following face make-up brands for your complexion have you heard of? - None of these
 ukq17_01: UKQ.17 How much, if anything, would you say you know about each of the following face make-up brands for your complexion? Charlotte Tilbury
-ukq17_02: UKQ.17 How much, if anything, would you say you know about each of the following face make-up brands for your complexion? EstÚe Lauder
+ukq17_02: UKQ.17 How much, if anything, would you say you know about each of the following face make-up brands for your complexion? EstÃše Lauder
 ukq17_03: UKQ.17 How much, if anything, would you say you know about each of the following face make-up brands for your complexion? Yves Saint Laurent Beauty
 ukq17_04: UKQ.17 How much, if anything, would you say you know about each of the following face make-up brands for your complexion? MAC
 ukq17_05: UKQ.17 How much, if anything, would you say you know about each of the following face make-up brands for your complexion? Dior Beauty
@@ -1110,7 +1110,7 @@ ukq17_10: UKQ.17 How much, if anything, would you say you know about each of the
 ukq17_11: UKQ.17 How much, if anything, would you say you know about each of the following face make-up brands for your complexion? Rare Beauty
 ukq17_12: UKQ.17 How much, if anything, would you say you know about each of the following face make-up brands for your complexion? Giorgio Armani
 ukq18_01: UKQ.18 Which of the following brands would you consider purchasing face make-up products for your complexion (foundation, concealer, powders) from in the future? Charlotte Tilbury
-ukq18_02: UKQ.18 Which of the following brands would you consider purchasing face make-up products for your complexion (foundation, concealer, powders) from in the future? EstÚe Lauder
+ukq18_02: UKQ.18 Which of the following brands would you consider purchasing face make-up products for your complexion (foundation, concealer, powders) from in the future? EstÃše Lauder
 ukq18_03: UKQ.18 Which of the following brands would you consider purchasing face make-up products for your complexion (foundation, concealer, powders) from in the future? Yves Saint Laurent Beauty
 ukq18_04: UKQ.18 Which of the following brands would you consider purchasing face make-up products for your complexion (foundation, concealer, powders) from in the future? MAC
 ukq18_05: UKQ.18 Which of the following brands would you consider purchasing face make-up products for your complexion (foundation, concealer, powders) from in the future? Dior Beauty
@@ -1124,7 +1124,7 @@ ukq18_12: UKQ.18 Which of the following brands would you consider purchasing fac
 ukq2001: UKQ.20 Which of the following make-up brands for non-complexion  products have you heard of? - Charlotte Tilbury
 ukq2002: UKQ.20 Which of the following make-up brands for non-complexion  products have you heard of? - Benefit Cosmetics
 ukq2003: UKQ.20 Which of the following make-up brands for non-complexion  products have you heard of? - Bobbi Brown
-ukq2004: UKQ.20 Which of the following make-up brands for non-complexion  products have you heard of? - EstÚe Lauder
+ukq2004: UKQ.20 Which of the following make-up brands for non-complexion  products have you heard of? - EstÃše Lauder
 ukq2005: UKQ.20 Which of the following make-up brands for non-complexion  products have you heard of? - Yves Saint Laurent Beauty
 ukq2006: UKQ.20 Which of the following make-up brands for non-complexion  products have you heard of? - MAC
 ukq2007: UKQ.20 Which of the following make-up brands for non-complexion  products have you heard of? - Dior Beauty
@@ -1139,7 +1139,7 @@ ukq2015: UKQ.20 Which of the following make-up brands for non-complexion  produc
 ukq21_01: UKQ21. How much, if anything, would you say you know about each of the following make-up brands for non-complexion products? Charlotte Tilbury
 ukq21_02: UKQ21. How much, if anything, would you say you know about each of the following make-up brands for non-complexion products? Benefit Cosmetics
 ukq21_03: UKQ21. How much, if anything, would you say you know about each of the following make-up brands for non-complexion products? Bobbi Brown
-ukq21_04: UKQ21. How much, if anything, would you say you know about each of the following make-up brands for non-complexion products? EstÚe Lauder
+ukq21_04: UKQ21. How much, if anything, would you say you know about each of the following make-up brands for non-complexion products? EstÃše Lauder
 ukq21_05: UKQ21. How much, if anything, would you say you know about each of the following make-up brands for non-complexion products? Yves Saint Laurent Beauty
 ukq21_06: UKQ21. How much, if anything, would you say you know about each of the following make-up brands for non-complexion products? MAC
 ukq21_07: UKQ21. How much, if anything, would you say you know about each of the following make-up brands for non-complexion products? Dior Beauty
@@ -1153,7 +1153,7 @@ ukq21_14: UKQ21. How much, if anything, would you say you know about each of the
 ukq22_01: UKQ.22 Which of the following brands would you consider purchasing make-up products for non-complexion products (e.g. eye makeup, lip products etc) from in the future? Charlotte Tilbury
 ukq22_02: UKQ.22 Which of the following brands would you consider purchasing make-up products for non-complexion products (e.g. eye makeup, lip products etc) from in the future? Benefit Cosmetics
 ukq22_03: UKQ.22 Which of the following brands would you consider purchasing make-up products for non-complexion products (e.g. eye makeup, lip products etc) from in the future? Bobbi Brown
-ukq22_04: UKQ.22 Which of the following brands would you consider purchasing make-up products for non-complexion products (e.g. eye makeup, lip products etc) from in the future? EstÚe Lauder
+ukq22_04: UKQ.22 Which of the following brands would you consider purchasing make-up products for non-complexion products (e.g. eye makeup, lip products etc) from in the future? EstÃše Lauder
 ukq22_05: UKQ.22 Which of the following brands would you consider purchasing make-up products for non-complexion products (e.g. eye makeup, lip products etc) from in the future? Yves Saint Laurent Beauty
 ukq22_06: UKQ.22 Which of the following brands would you consider purchasing make-up products for non-complexion products (e.g. eye makeup, lip products etc) from in the future? MAC
 ukq22_07: UKQ.22 Which of the following brands would you consider purchasing make-up products for non-complexion products (e.g. eye makeup, lip products etc) from in the future? Dior Beauty
@@ -1166,10 +1166,10 @@ ukq22_13: UKQ.22 Which of the following brands would you consider purchasing mak
 ukq22_14: UKQ.22 Which of the following brands would you consider purchasing make-up products for non-complexion products (e.g. eye makeup, lip products etc) from in the future? Rare Beauty
 ukq2401: UKQ.24 Which of the following skincare brands have you heard of? - Charlotte Tilbury
 ukq2402: UKQ.24 Which of the following skincare brands have you heard of? - La Mer
-ukq2403: UKQ.24 Which of the following skincare brands have you heard of? - EstÚe Lauder
+ukq2403: UKQ.24 Which of the following skincare brands have you heard of? - EstÃše Lauder
 ukq2404: UKQ.24 Which of the following skincare brands have you heard of? - Dior Beauty
 ukq2405: UKQ.24 Which of the following skincare brands have you heard of? - Chanel Beauty
-ukq2406: UKQ.24 Which of the following skincare brands have you heard of? - Lanc¶me
+ukq2406: UKQ.24 Which of the following skincare brands have you heard of? - LancÂ¶me
 ukq2407: UKQ.24 Which of the following skincare brands have you heard of? - Glossier
 ukq2408: UKQ.24 Which of the following skincare brands have you heard of? - Kiehls
 ukq2409: UKQ.24 Which of the following skincare brands have you heard of? - Clarins
@@ -1182,10 +1182,10 @@ ukq2415: UKQ.24 Which of the following skincare brands have you heard of? - The 
 ukq2416: UKQ.24 Which of the following skincare brands have you heard of? - None of these
 ukq25_01: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? Charlotte Tilbury
 ukq25_02: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? La Mer
-ukq25_03: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? EstÚe Lauder
+ukq25_03: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? EstÃše Lauder
 ukq25_04: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? Dior Beauty
 ukq25_05: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? Chanel Beauty
-ukq25_06: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? Lanc¶me
+ukq25_06: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? LancÂ¶me
 ukq25_07: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? Glossier
 ukq25_08: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? Kiehls
 ukq25_09: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? Clarins
@@ -1197,10 +1197,10 @@ ukq25_14: UKQ25. How much, if anything, would you say you know about each of the
 ukq25_15: UKQ25. How much, if anything, would you say you know about each of the following Skincare brands? The inkey list
 ukq26_01: UKQ.26 Which of the following brands would you consider purchasing skincare products (e.g.  moisturisers, cleansers, serums etc) from in the future? Charlotte Tilbury
 ukq26_02: UKQ.26 Which of the following brands would you consider purchasing skincare products (e.g.  moisturisers, cleansers, serums etc) from in the future? La Mer
-ukq26_03: UKQ.26 Which of the following brands would you consider purchasing skincare products (e.g.  moisturisers, cleansers, serums etc) from in the future? EstÚe Lauder
+ukq26_03: UKQ.26 Which of the following brands would you consider purchasing skincare products (e.g.  moisturisers, cleansers, serums etc) from in the future? EstÃše Lauder
 ukq26_04: UKQ.26 Which of the following brands would you consider purchasing skincare products (e.g.  moisturisers, cleansers, serums etc) from in the future? Dior Beauty
 ukq26_05: UKQ.26 Which of the following brands would you consider purchasing skincare products (e.g.  moisturisers, cleansers, serums etc) from in the future? Chanel Beauty
-ukq26_06: UKQ.26 Which of the following brands would you consider purchasing skincare products (e.g.  moisturisers, cleansers, serums etc) from in the future? Lanc¶me
+ukq26_06: UKQ.26 Which of the following brands would you consider purchasing skincare products (e.g.  moisturisers, cleansers, serums etc) from in the future? LancÂ¶me
 ukq26_07: UKQ.26 Which of the following brands would you consider purchasing skincare products (e.g.  moisturisers, cleansers, serums etc) from in the future? Glossier
 ukq26_08: UKQ.26 Which of the following brands would you consider purchasing skincare products (e.g.  moisturisers, cleansers, serums etc) from in the future? Kiehls
 ukq26_09: UKQ.26 Which of the following brands would you consider purchasing skincare products (e.g.  moisturisers, cleansers, serums etc) from in the future? Clarins
@@ -1285,19 +1285,19 @@ labels6:
   13.0: Prefer not to say
 
 labels7:
-  1.0: Up to ú7,000
-  2.0: ú7,001 to ú14,000
-  3.0: ú14,001 to ú21,000
-  4.0: ú21,001 to ú28,000
-  5.0: ú28,001 to ú34,000
-  6.0: ú34,001 to ú41,000
-  7.0: ú41,001 to ú48,000
-  8.0: ú48,001 to ú55,000
-  9.0: ú55,001 to ú62,000
-  10.0: ú62,001 to ú69,000
-  11.0: ú69,001 to ú76,000
-  12.0: ú76,001 to ú83,000
-  13.0: ú83,001 or more
+  1.0: Up to Ãº7,000
+  2.0: Ãº7,001 to Ãº14,000
+  3.0: Ãº14,001 to Ãº21,000
+  4.0: Ãº21,001 to Ãº28,000
+  5.0: Ãº28,001 to Ãº34,000
+  6.0: Ãº34,001 to Ãº41,000
+  7.0: Ãº41,001 to Ãº48,000
+  8.0: Ãº48,001 to Ãº55,000
+  9.0: Ãº55,001 to Ãº62,000
+  10.0: Ãº62,001 to Ãº69,000
+  11.0: Ãº69,001 to Ãº76,000
+  12.0: Ãº76,001 to Ãº83,000
+  13.0: Ãº83,001 or more
   14.0: Prefer not to say
 
 labels8:
